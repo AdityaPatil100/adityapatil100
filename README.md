@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1><b>Aditya Patil</b></h1> <br>
 Software Engineer <br>
-<b>Data Scientist | PHP Laravel developer | Meteverse Engineer | MERN Developer | </b>
+<b>Data Scientist | PHP Laravel developer | Meteverse Engineer |</b>
 
 <!--
 **AdityaPatil100/adityapatil100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
